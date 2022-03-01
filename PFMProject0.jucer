@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="OQwZzD" name="PFMProject0" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1">
+              addUsingNamespaceToJuceHeader="1" jucerFormatVersion="1" pluginCharacteristicsValue="pluginIsSynth"
+              pluginManufacturer="Monkfish Sounds">
   <MAINGROUP id="TlGePa" name="PFMProject0">
     <GROUP id="{4E7965D9-31C4-150E-9FF2-34F969B32DD7}" name="Source">
       <FILE id="UyeKQM" name="PluginProcessor.cpp" compile="1" resource="0"
